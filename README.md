@@ -28,4 +28,3 @@ Most of the repositories here are projects I've built while learning, experiment
 
 [LinkedIn](https://www.linkedin.com/in/ahmadsprofile?utm_source=share_via&utm_content=profile&utm_medium=member_android) · hamood4sale@gmail.com
 
-Thanks for stopping by.
